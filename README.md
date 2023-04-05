@@ -1,4 +1,4 @@
-First change (branch2)
+Second change (branch2)
 
 **Check out my other repositories**:
 
