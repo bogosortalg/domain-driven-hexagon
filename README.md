@@ -1,4 +1,4 @@
-Third change (branch2)
+Third change (Merge resolution)
 
 **Check out my other repositories**:
 
